@@ -1,64 +1,98 @@
-# VanshTyagi
-Personal GitHub profile showcasing my coding journey, projects, and software development skills.
-# Hi, I'm Vansh Tyagi 👋
+<h1 align="center">
+  Hi 👋, I'm Vansh Tyagi
+</h1>
 
-🎓 Engineering Student  
-💻 Learning Data Structures & Algorithms  
-⚡ Building strong programming fundamentals with C++
+<h3 align="center">
+ Aspiring Electronics Engineer | DSA Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Data+Structures+%26+Algorithms;Improving+Every+Day+🚀" />
+</p>
+
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- Currently improving my DSA and problem-solving skills
-- Practicing competitive programming concepts
-- Interested in software development and core engineering technologies
-- Consistently building projects and improving my coding skills
+🎓 Engineering Student passionate about technology and problem solving.
+
+- 🔭 Currently working on **DSA & C++**
+- 🌱 Learning **Algorithms, Electronics Core Basics**
+- 💡 Interested in building practical projects
+- 🎯 Goal: Become a skilled Electronics engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-blue)
-![C](https://img.shields.io/badge/C-grey)
+<p align="center">
 
-### Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,operating system" />
+
+</p>
+
 
 ---
 
-## 📚 Current Focus
+## 📚 Currently Learning
 
-✅ Data Structures & Algorithms  
-✅ Problem Solving  
-✅ Writing clean and optimized code  
-✅ Building practical projects  
+✔ Data Structures & Algorithms
+✔ Competitive Programming
+✔ Clean Code Practices
+✔ Problem Solving
+✔ System Design Basics
 
----
+## 📊 Developer Statistics
 
-## 📂 Featured Repositories
+<p align="center">
 
-🔹 DSA Practice  
-→ My journey solving coding problems
+<img src="https://github-readme-stats.vercel.app/api?username=vanshtyagi2005&show_icons=true&theme=tokyonight"/>
 
-🔹 College Projects  
-→ Academic and personal projects
+</p>
 
----
 
-## 📊 GitHub Stats
+## 🔥 Coding Streak
 
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshtyagi2005&show_icons=true)
+<p align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshtyagi2005&theme=tokyonight"/>
+
+</p>
+
+
+## 🧩 LeetCode Progress
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/VanshTyagi05?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
+
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshtyagi2005&theme=tokyo-night"/>
+
+</p>
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your profile link here
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vansh-tyagi-71572937b/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 
 ---
 
+<h3 align="center">
+
 ⭐ Always learning. Always improving.
+
+</h3>
