@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Electronics+and+Communication+Engineering+Student;DSA+in+C%2B%2B;LeetCode+Problem+Solver;Learning+VLSI+and+Embedded+Systems;Building+Projects+and+Improving+Every+Day" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudheerkr-kr&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
 ***
 
 ## 🌐 Connect With Me
@@ -100,22 +96,6 @@
 - VLSI Fundamentals
 - Cadence Virtuoso
 
-***
-
-## 📈 Coding Journey
-
-```text
-DSA                 ████████░░░░░░░░░░░░  35%
-C++                 █████████░░░░░░░░░░░  40%
-Python              ██████████████░░░░░░  70%
-Problem Solving     ████████████████░░░░  80%
-Git & GitHub        ████░░░░░░░░░░░░░░░░  15%
-HTML/CSS            ██████░░░░░░░░░░░░░░  35%
-VLSI                ██░░░░░░░░░░░░░░░░░░  10%
-```
-
-***
-
 ## 🎯 Current Goals
 
 - Reach 200+ LeetCode problems
@@ -125,17 +105,6 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 - Start VLSI design journey
 - Secure an internship opportunity
 
-***
-
-## 🏆 LeetCode Profile
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/VanshTyagi05?theme=dark&font=Baloo&ext=heatmap"/>
-
-</p>
-
-***
 
 ## 📊 GitHub Overview
 
